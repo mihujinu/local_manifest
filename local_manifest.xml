@@ -2,12 +2,14 @@
 
 <manifest>
 
-  <remote name="me"
-          fetch="https://github.com/mihujinu" />
- 
-        <!-- Sync trees -->
-        <project path="device/realme/RMX1931" name="android_device_realme_RMX1931" remote="me" revision="lineage-18.1" />
-        <project path="vendor/realme" name="vendor_realme_RMX1931" remote="me" revision="lineage-18.1" />
-        <project path="kernel/realme/RMX1931" name="kernel_realme_RMX1931" remote=me" revision="master" />
+<!-- Remotes -->
+
+    <remote name="me" fetch="https://github.com/mihujinu" />
+  
+<!-- Sync trees -->
+
+    <project path="device/realme/RMX1931" name="android_device_realme_RMX1931" remote="me" revision="lineage-18.1" />
+    <project path="vendor/realme" name="vendor_realme_RMX1931" remote="me" revision="lineage-18.1" />
+    <project path="kernel/realme/RMX1931" name="kernel_realme_RMX1931" remote="me" revision="master" />
 
 </manifest>
