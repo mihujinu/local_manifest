@@ -10,6 +10,6 @@
 
     <project path="device/realme/RMX1931" name="android_device_realme_RMX1931" remote="me" revision="lineage-18.1" />
     <project path="kernel/realme/RMX1931" name="kernel_realme_RMX1931" remote="me" revision="master" />
-    <project path="vendor/realme" name="vendor_realme_RMX1931" remote="me" revision="msmnile-user-10-RMX1931_11_C.36-release-keys-Wed-Mar-10-02-42-39-CST-2021" />
+    <project path="vendor/realme" name="vendor_realme_RMX1931" remote="me" revision="msmnile-user-9-PKQ1.190626.001-eng.root.20191031.123637-release-keys" />
 
 </manifest>
